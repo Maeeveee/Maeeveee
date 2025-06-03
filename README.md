@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maeeveee
+- 👋 Hi, I’m Rizal Abrar Fahmi
 - 👀 I’m interested in Frontend dev
 - 🌱 I’m currently learning React & Laravel
 - 😄 Pronouns: He/Him
