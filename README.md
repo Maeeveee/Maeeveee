@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋! My name is Rizal Abrar Fahmi and I'm a Frontend developer, from Malang</h2>
 
 ###
- <img src="https://streak-stats.demolab.com?user=Maeeveee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Maeeveee&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maeeveee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maeeveee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
