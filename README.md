@@ -2,10 +2,10 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Maeeveee&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Maeeveee&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZhMjdtbmU5dDdob2l3bnYzcHEyc3h6dzRmd2E3MTEzMmYwNHZvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/51DjsXLhUfFozdos7F/giphy.gif"  />
-<br>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maeeveee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maeeveee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
