@@ -2,8 +2,10 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Maeeveee&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZhMjdtbmU5dDdob2l3bnYzcHEyc3h6dzRmd2E3MTEzMmYwNHZvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/51DjsXLhUfFozdos7F/giphy.gif"  />
+  <div>
+    <img src="https://streak-stats.demolab.com?user=Maeeveee&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+    <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZhMjdtbmU5dDdob2l3bnYzcHEyc3h6dzRmd2E3MTEzMmYwNHZvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/51DjsXLhUfFozdos7F/giphy.gif"  />
+  </div>
 </div>
 
 <div align="center">
